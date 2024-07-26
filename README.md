@@ -1,6 +1,7 @@
 # Multi-task-matching-and-Evaluation-Recommendation-based-on-RAG
 Geographical named entity matching experiment and RAG based validation recommendation for a multi-objective task model
 
+## multi-task model contains model training and testing code as well as non matching data
 
 ## 1、RAG_embedding1.py used for vectorizing address data and generating corresponding address vector libraries
 
@@ -13,3 +14,4 @@ Geographical named entity matching experiment and RAG based validation recommend
 ## 5、GNEMM matching result folder includes the matching addresses of the model and some initial address instances
 
 ## 6、2023 Shandong Address Data Example include newly added Shandong address data
+
